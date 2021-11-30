@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Program
+namespace _3_writeline
 {
     class Test
     {
