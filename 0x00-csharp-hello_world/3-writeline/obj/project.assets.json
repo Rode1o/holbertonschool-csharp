@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/home/rode1o/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/3-writeline.csproj",
+      "projectName": "3-writeline",
+      "projectPath": "/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/3-writeline.csproj",
+      "packagesPath": "/home/rode1o/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/rode1o/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

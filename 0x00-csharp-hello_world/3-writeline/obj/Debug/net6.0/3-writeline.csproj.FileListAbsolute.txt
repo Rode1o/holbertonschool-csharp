@@ -1,0 +1,15 @@
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.deps.json
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.runtimeconfig.json
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/net6.0/ref/3-writeline.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/net6.0/3-writeline.pdb
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.csproj.AssemblyReference.cache
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.AssemblyInfoInputs.cache
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.AssemblyInfo.cs
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.csproj.CoreCompileInputs.cache
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/ref/3-writeline.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.pdb
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/net6.0/3-writeline.genruntimeconfig.cache
