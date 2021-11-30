@@ -1,0 +1,15 @@
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/bin/Debug/net6.0/4-print_integer
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/bin/Debug/net6.0/4-print_integer.deps.json
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/bin/Debug/net6.0/4-print_integer.runtimeconfig.json
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/bin/Debug/net6.0/4-print_integer.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/bin/Debug/net6.0/ref/4-print_integer.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/bin/Debug/net6.0/4-print_integer.pdb
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.csproj.AssemblyReference.cache
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.AssemblyInfoInputs.cache
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.AssemblyInfo.cs
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.csproj.CoreCompileInputs.cache
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/ref/4-print_integer.dll
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.pdb
+/mnt/c/Users/camil/RiderProjects/holbertonschool-csharp-main/0x00-csharp-hello_world/4-print_integer/obj/Debug/net6.0/4-print_integer.genruntimeconfig.cache

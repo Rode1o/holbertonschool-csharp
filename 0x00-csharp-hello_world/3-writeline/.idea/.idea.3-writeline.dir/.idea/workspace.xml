@@ -7,8 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89706944-80ea-4df7-bcf4-92263f69810b" name="Changes" comment="Added as project">
-      <change beforePath="$PROJECT_DIR$/3-writeline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/3-writeline.cs" afterDir="false" />
+    <list default="true" id="89706944-80ea-4df7-bcf4-92263f69810b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../4-print_integer/4-print_integer.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-print_integer/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-print_integer/obj/4-print_integer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-print_integer/obj/4-print_integer.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-print_integer/obj/4-print_integer.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-print_integer/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-print_integer/obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +25,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="21d42U1dp6zh0WiOhg9G8EzEepc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638257423082</updated>
-      <workItem from="1638257438475" duration="1307000" />
+      <workItem from="1638257438475" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="Added as project">
       <created>1638257858561</created>
@@ -69,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638257858561</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Static Method">
+      <created>1638258784866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638258784866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,8 +106,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added as project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added as project" />
+    <MESSAGE value="Static Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Method" />
   </component>
 </project>
