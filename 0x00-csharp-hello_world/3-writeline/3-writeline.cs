@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _3_writeline
+namespace Program
 {
-    class Program
+    class Test
     {
         static void Main(string[] args)
         {
