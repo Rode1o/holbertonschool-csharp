@@ -8,7 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89706944-80ea-4df7-bcf4-92263f69810b" name="Changes" comment="Added as project">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.3-writeline.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3-writeline.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3-writeline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/3-writeline.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638257423082</updated>
-      <workItem from="1638257438475" duration="970000" />
+      <workItem from="1638257438475" duration="1307000" />
     </task>
     <task id="LOCAL-00001" summary="Added as project">
       <created>1638257858561</created>
