@@ -1,0 +1,11 @@
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.deps.json
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.json
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.dev.json
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.dll
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.pdb
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.csprojAssemblyReference.cache
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.csproj.CoreCompileInputs.cache
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfoInputs.cache
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfo.cs
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.dll
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.pdb

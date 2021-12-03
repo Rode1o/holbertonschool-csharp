@@ -1,0 +1,11 @@
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.deps.json
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.json
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.dev.json
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.dll
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.pdb
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csprojAssemblyReference.cache
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csproj.CoreCompileInputs.cache
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfoInputs.cache
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfo.cs
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.dll
+/home/alison/tmpalison/projects/C#/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.pdb
