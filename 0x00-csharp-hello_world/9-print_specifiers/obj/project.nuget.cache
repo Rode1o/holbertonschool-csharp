@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TWl3lVfaTDC4Ex9oCSxSvvBtL2OBvPDopws6Dkj0PKlUDPKzNeOS34S9U1nTuoDftJkjeqDuTXhCQJuFVTugdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camil\\RiderProjects\\holbertonschool-csharp-main\\0x00-csharp-hello_world\\9-print_specifiers\\9-print_specifiers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

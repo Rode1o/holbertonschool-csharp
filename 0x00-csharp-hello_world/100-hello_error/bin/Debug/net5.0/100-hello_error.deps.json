@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "100-hello_error/1.0.0": {
+        "runtime": {
+          "100-hello_error.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "100-hello_error/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

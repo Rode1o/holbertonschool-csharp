@@ -1,0 +1,16 @@
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\net5.0\9-print_specifiers.exe
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\net5.0\9-print_specifiers.deps.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\net5.0\9-print_specifiers.runtimeconfig.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\net5.0\9-print_specifiers.runtimeconfig.dev.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\net5.0\9-print_specifiers.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\net5.0\ref\9-print_specifiers.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\bin\Debug\net5.0\9-print_specifiers.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.csproj.AssemblyReference.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.AssemblyInfoInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.AssemblyInfo.cs
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.csproj.CoreCompileInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\ref\9-print_specifiers.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\9-print_specifiers\obj\Debug\net5.0\9-print_specifiers.genruntimeconfig.cache

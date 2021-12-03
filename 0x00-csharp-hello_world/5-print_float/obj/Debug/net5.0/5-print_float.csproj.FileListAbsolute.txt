@@ -1,0 +1,16 @@
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.csproj.AssemblyReference.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.AssemblyInfoInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.AssemblyInfo.cs
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.csproj.CoreCompileInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\bin\Debug\net5.0\5-print_float.exe
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\bin\Debug\net5.0\5-print_float.deps.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\bin\Debug\net5.0\5-print_float.runtimeconfig.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\bin\Debug\net5.0\5-print_float.runtimeconfig.dev.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\bin\Debug\net5.0\5-print_float.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\bin\Debug\net5.0\ref\5-print_float.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\bin\Debug\net5.0\5-print_float.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\ref\5-print_float.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\5-print_float\obj\Debug\net5.0\5-print_float.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7BMBnZWBJGfLm7WtQgliAbjT4FwYlO4zhN70atk3KLcP48Ejm+5DOAVVS2NBi8hhQ6A6s/4liJn0rA9I93dOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camil\\RiderProjects\\holbertonschool-csharp-main\\0x00-csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

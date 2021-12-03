@@ -1,0 +1,16 @@
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\bin\Debug\net5.0\10-copy_cut_paste.exe
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\bin\Debug\net5.0\10-copy_cut_paste.deps.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\bin\Debug\net5.0\10-copy_cut_paste.runtimeconfig.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\bin\Debug\net5.0\10-copy_cut_paste.runtimeconfig.dev.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\bin\Debug\net5.0\10-copy_cut_paste.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\bin\Debug\net5.0\ref\10-copy_cut_paste.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\bin\Debug\net5.0\10-copy_cut_paste.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.csproj.AssemblyReference.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.AssemblyInfoInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.AssemblyInfo.cs
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.csproj.CoreCompileInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\ref\10-copy_cut_paste.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\10-copy_cut_paste\obj\Debug\net5.0\10-copy_cut_paste.genruntimeconfig.cache

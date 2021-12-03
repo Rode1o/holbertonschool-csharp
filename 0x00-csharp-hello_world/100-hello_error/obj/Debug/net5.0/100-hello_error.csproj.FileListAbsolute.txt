@@ -1,0 +1,16 @@
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\bin\Debug\net5.0\100-hello_error.exe
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\bin\Debug\net5.0\100-hello_error.deps.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\bin\Debug\net5.0\100-hello_error.runtimeconfig.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\bin\Debug\net5.0\100-hello_error.runtimeconfig.dev.json
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\bin\Debug\net5.0\100-hello_error.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\bin\Debug\net5.0\ref\100-hello_error.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\bin\Debug\net5.0\100-hello_error.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.csproj.AssemblyReference.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.AssemblyInfoInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.AssemblyInfo.cs
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.csproj.CoreCompileInputs.cache
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\ref\100-hello_error.dll
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.pdb
+C:\Users\camil\RiderProjects\holbertonschool-csharp-main\0x00-csharp-hello_world\100-hello_error\obj\Debug\net5.0\100-hello_error.genruntimeconfig.cache
