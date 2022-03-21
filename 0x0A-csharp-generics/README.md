@@ -90,9 +90,3 @@ Based on 5-iterate_act, remove the RoomObjects class created in the previous tas
 
 * Class: Objs<T>
 * Objs<T> must inherit from and implement IEnumerable<T>
-
-#### Follow me 💬
-
-| Authors | GitHub | Twitter | Linkedin |
-| :---: | :---: | :---: | :---: |
-| Julian Cano | [juliancanodev](https://github.com/JulianCanoDev) | [@juliancanodev](https://twitter.com/JulianCanoDev) | [juliancanodev](https://www.linkedin.com/in/juliancanodev/) |
