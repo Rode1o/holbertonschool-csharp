@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcgQGBXqxdytzAEmDG8nk55ljIBGxOYfxiUzatsT+GpnaGrgqW35yMyOr/Erp4QrnW96q4pranGR53pdIiDCzQ==",
+  "success": true,
+  "projectFilePath": "/home/julian/holberton_school/1_spetialization/holbertonschool-csharp/0x0A-csharp-generics/1-enqueue/1-enqueue.csproj",
+  "expectedPackageFiles": [
+    "/home/julian/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/home/julian/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/home/julian/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/home/julian/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/home/julian/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/home/julian/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/home/julian/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
